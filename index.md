@@ -6,6 +6,6 @@ No requiere especiales conocimientos previos de informática. Exige capacidad de
 
 Mi único interés para cualquier persona que lea es que pueda servirle lo que cuento aquí. No estoy afiliado de ninguna manera, ni recibo beneficio monetario alguno de ninguna empresa.
 
-Como es lógico suponer, únicamente soy usuario de los servicios de [_Freenom_](http://www.freenom.com) y [_GitHub_](https://github.com) y disfruto gratuitamente de ellos.
+Como es lógico suponer, únicamente soy usuario de los servicios de [_Freenom_](http://www.freenom.com) y [_GitHub_](https://github.com), de los que disfruto gratuitamente.
 
 Si quiere entenderse así, muestro en este sitio lo que puede ser útil a otras personas y revertir en mejor y mayor publicidad para estas empresas.

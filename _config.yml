@@ -1,5 +1,7 @@
 title: Sitio Git
 description: En menos de diez minutos
-author: Pablo Rodríguez
+author: 
+  name: Pablo Rodríguez
+  url: http://www.ousia.tk
 show_downloads: false
 theme: jekyll-theme-modernist
